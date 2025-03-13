@@ -1,0 +1,120 @@
+body {
+    margin: auto;
+    background-color: rgb(75, 77, 77);
+    background: rgb(75, 77, 77);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(40, 39, 39);
+    padding-right: 50px;
+
+}
+
+li:hover {
+    background-color: rgb(8, 8, 8);
+    border-radius: 10px;
+    transition: 500ms;
+}
+    
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.Cod {
+    float: left;
+    color: white;
+    padding-top: 10px;
+    font-size: 25px;
+    padding-left: 100px;
+
+}
+
+.banner {
+    align-items: center;
+    text-align: center;
+
+}
+
+.banner h1 {
+    color: white;
+    align-items: center;
+    font-size: 35px;
+    padding-top: 250px;
+
+}
+
+.banner button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.birinchi {
+    color: white;
+    background: url();
+    margin: 10px;
+}
+.birinchi:hover{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    transition: 500ms;
+}
+.ikkinchi:hover{
+    background: url();
+    font-size: 15px;
+    transition: 500ms;
+    color: white;
+}
+
+  
+  img{
+    width: 200px;
+    height: 200px;
+  }
+  .matn {
+    
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    margin-left: 410px;
+    margin-right: 340px;
+    
+
+  }
+  .Matn {
+    border: 2px solid;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .m {
+    background-color: rgb(42, 253, 253);
+    
+  }
+  p{
+    color: white;
+    margin: 4px;
+    padding: 4px;
+  }
+
+  
